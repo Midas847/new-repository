@@ -18,7 +18,7 @@ lib/
 lib64/cgfd
 parts/
 sdist/
-var/
+var/img
 wheels/
 *.egg-info/
 .installed.cfg
